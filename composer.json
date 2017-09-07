@@ -1,5 +1,5 @@
 {
-    "name": "claymm/laravel-arrowdb",
+    "name": "pburel/laravel-arrowdb",
     "description": "A Laravel package for inteacting with ArrowDB Appcelerator Cloud Services",
     "keywords": ["ArrowDB", "ACS", "appcelerator", "cloud", "services", "titanium", "alloy", "API", "RESTe"],
     "homepage": "https://github.com/Claymm/laravel-arrowdb",
